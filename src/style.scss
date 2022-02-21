@@ -6,12 +6,9 @@
 @import "default/css/adjustment";
 @import "default/css/common";
 
-//BLOCKS
-@import "blocks/css/header";
-@import "blocks/css/nav";
-@import "blocks/css/footer";
-
 //COMPONENTS
+@import "components/header/style";
+@import "components/footer/style";
 
 //PAGES
 @import "pages/style";
