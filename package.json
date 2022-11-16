@@ -15,7 +15,7 @@
     "jquery": "^3.6.0",
     "jquery-validation": "^1.19.5",
     "normalize.css": "^8.0.1",
-    "ozimnad-reset": "0.0.2",
+    "ozimnad-reset": "0.0.3",
     "swiper": "^8.3.2"
   }
 }

@@ -33,3 +33,5 @@ body {
 .content {
   @include content;
 }
+
+@include headers;
